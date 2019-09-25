@@ -1,0 +1,59 @@
+====================== Read Me ==========================
+Project On: Hotel Booking System.
+
+Rules:
+======
+
+In this porject I have 3 users in the database. you need those username and password to login.
+1. Username : Belal		password : Belal123
+2. Username : Akib		password : Akib123
+3. Username : Rasel		password : Rasel123
+
+Before run the application, please attach the database from the database folder
+From the Project folder.
+Project Folder--> Database Folder--> MyTestDB1
+
+Home :
+=====
+# Home button will display welcome text.
+
+Room:
+====
+# Using this button you will be able to check available room to check in
+or reservation.
+# You also be able to get information about total free, occupied and 
+pending room status.
+# Summery information about room.
+# When room cell color is red means occupied, yellow means pending and
+green means free.
+
+Check In:
+========
+# Using this button you will be able to check in guest to the hotel on 
+a free room.
+
+Check Out:
+==========
+# Using this button, you will be able to check out guest that are alrady
+checked in.
+
+Reservation:
+============
+# You can use this button to take an advance reservation, later you can
+confirm it or cancel it.
+
+Report:
+======
+# All the report relating to the hotel booking system will find here.
+# you can generate bill for check out.
+# you can check current guest list.
+
+
+Archive:
+=======
+# All the information about check in, check out, reservation etc. will 
+display this button.
+
+
+================ Thank You ============
+
